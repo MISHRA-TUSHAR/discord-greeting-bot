@@ -2,7 +2,9 @@ package main
 
 import (
 	"fmt"
-	"io/ioutil"
+
+	"github.com/MISHRA-TUSHAR/discord-greeting-bot/bot"
+	"github.com/MISHRA-TUSHAR/discord-greeting-bot/config"
 )
 
 func main() {
