@@ -34,6 +34,7 @@ The bot requires a config.json file in the root directory to store the bot token
 
 ***Replace "YOUR_DISCORD_BOT_TOKEN" with your actual Discord bot token.***
 
+
 ### Usage
 
 
